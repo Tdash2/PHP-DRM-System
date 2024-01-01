@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DMR Java Example:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DMR_Java_Example_jar</output-path>
+    <root id="archive" name="DMR Java Example.jar">
+      <element id="module-output" name="DRM Key Cracker" />
+    </root>
+  </artifact>
+</component>
